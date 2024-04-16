@@ -1,0 +1,17 @@
+# dependencies
+/front-end/node_modules
+/back-end/node_modules
+
+# production
+/front-end/build
+
+# env config file
+/back-end/.env
+/front-end/.env
+/front-end/public/env.js
+
+# debug
+npm-debug.log*
+
+
+
