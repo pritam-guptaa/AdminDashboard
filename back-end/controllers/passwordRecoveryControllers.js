@@ -9,7 +9,7 @@ const hmtlTemplate = (id, token) =>
     <p> 
       <button style="padding: 4px 8px; background-color: #3da58a; border: none; border-radius: 4px;">
         <a style="text-decoration: none; color: white;" 
-          href=http://localhost:3000/reset-password/${id}/${token}>
+          href=https://admin-dashboard-s3zt.onrender.com/reset-password/${id}/${token}>
             reset password
         </a>
       </button>
